@@ -1,7 +1,5 @@
 ## Fundamentals of Power Electronics — Personal Study Notes
-## 个人学习笔记
-
-- Personal notes and reflections on *Fundamentals of Power Electronics* (3rd Edition) by R. W. Erickson and D. Maksimović.
+Personal notes and reflections on *Fundamentals of Power Electronics* (3rd Edition) by R. W. Erickson and D. Maksimović.
 
 ---
 
