@@ -50,12 +50,6 @@ If these notes help you, I'm glad — please support the authors by purchasing t
 
 ---
 
-## 📬 Contact / 联系方式
-
-- 📧 jiayidong344@gmail.com
-
----
-
 *Notes are continuously updated. Errors are entirely my own — feel free to open an issue.*
 
 *笔记持续更新中。如发现错误,欢迎提交 Issue 指正。*
